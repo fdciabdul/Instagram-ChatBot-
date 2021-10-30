@@ -1,0 +1,20 @@
+{
+  "name": "instagrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "instagram",
+    "bot"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC"
+}
